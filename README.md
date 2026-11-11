@@ -26,7 +26,7 @@ The proposed system will help a student record tasks and mark them complete.
 
 \- Student: Records tasks and checks progress.
 
-\- Instructor: \[Explain what the instructor needs to know.]
+\- Instructor: \[]
 
 \- Project maintainer: \[Explain what the maintainer needs to manage.]
 
